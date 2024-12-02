@@ -1,0 +1,29 @@
+# Dependências do Go
+# Go modules
+/go.sum
+/go.mod
+
+# Binários e arquivos compilados
+/bin/
+/build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+
+# Diretório do VSCode
+.vscode/
+
+# Arquivos de configuração do editor
+.idea/
+
+# Arquivos de log
+*.log
+
+# Diretório de cache do Go
+*.cache/
+
+# Arquivos de backup do editor
+*~
